@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/snavid-dev/snavid-dev/raw/main/logo.png" alt="Sayed Navid Azimi Logo" width="120">
+  <img src="https://raw.githubusercontent.com/snavid-dev/snavid-dev/refs/heads/main/raw/main/logo.png" alt="Sayed Navid Azimi Logo" width="120">
 </div>
 
 # Hi, I’m Sayed Navid Azimi 👋
