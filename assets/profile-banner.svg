@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Sayed Navid Azimi — Senior Full-Stack Developer</title>
+<desc id="desc">Charcoal SNA banner with cyan lettering and red accents. Frontend, backend, architecture, and product delivery.</desc>
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#E9EBEB" opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="370" rx="16" fill="#272627"/>
+<rect x="800" width="400" height="370" rx="16" fill="url(#grid)"/>
+<path d="M48 0H236" stroke="#3EDAFF" stroke-width="5"/>
+<path d="M242 0H274" stroke="#DF3127" stroke-width="5"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+  <text x="54" y="59" fill="#3EDAFF" font-size="14" font-weight="700" letter-spacing="3">SNA / ENGINEERING</text>
+  <text x="54" y="130" fill="#E9EBEB" font-size="45" font-weight="700" letter-spacing="-1.4">Sayed Navid Azimi<tspan fill="#DF3127">.</tspan></text>
+  <text x="54" y="180" fill="#3EDAFF" font-size="30" font-weight="600">Senior Full-Stack Developer</text>
+  <text x="56" y="227" fill="#BDC3C9" font-size="18">Thoughtful interfaces. Reliable services.</text>
+  <text x="56" y="254" fill="#BDC3C9" font-size="18">Ownership from the first idea to delivery.</text>
+  <path d="M56 291H718" stroke="#454545"/>
+  <text x="56" y="324" fill="#E9EBEB" font-size="12" font-weight="600" letter-spacing="1.3">FRONTEND</text>
+  <circle cx="159" cy="319" r="2.5" fill="#DF3127"/>
+  <text x="178" y="324" fill="#E9EBEB" font-size="12" font-weight="600" letter-spacing="1.3">BACKEND</text>
+  <circle cx="270" cy="319" r="2.5" fill="#DF3127"/>
+  <text x="289" y="324" fill="#E9EBEB" font-size="12" font-weight="600" letter-spacing="1.3">ARCHITECTURE</text>
+  <circle cx="431" cy="319" r="2.5" fill="#DF3127"/>
+  <text x="450" y="324" fill="#E9EBEB" font-size="12" font-weight="600" letter-spacing="1.3">PRODUCT DELIVERY</text>
+  <path d="M953 115V154M953 222V261" fill="none" stroke="#3EDAFF" stroke-width="2"/>
+  <rect x="822" y="45" width="265" height="70" rx="8" fill="#2C2C2D" stroke="#4D5153"/>
+  <circle cx="843" cy="64" r="3" fill="#DF3127"/>
+  <circle cx="855" cy="64" r="3" fill="#6C747A"/>
+  <circle cx="867" cy="64" r="3" fill="#6C747A"/>
+  <path d="M839 75H1071" stroke="#454545"/>
+  <text x="842" y="98" fill="#E9EBEB" font-size="13" letter-spacing="1">01 / EXPERIENCE</text>
+  <rect x="822" y="154" width="265" height="68" rx="8" fill="#272627" stroke="#3EDAFF"/>
+  <text x="842" y="184" fill="#3EDAFF" font-size="13" letter-spacing="1">02 / APPLICATION</text>
+  <text x="842" y="204" fill="#A6ADB4" font-size="11">APIs · logic · services</text>
+  <rect x="822" y="261" width="265" height="64" rx="8" fill="#2C2C2D" stroke="#4D5153"/>
+  <text x="842" y="289" fill="#E9EBEB" font-size="13" letter-spacing="1">03 / DATA</text>
+  <text x="842" y="309" fill="#A6ADB4" font-size="11">Structure · persistence · reliability</text>
+  <circle cx="953" cy="134" r="4" fill="#3EDAFF"/>
+  <circle cx="953" cy="242" r="4" fill="#DF3127"/>
+</g>
+</svg>
